@@ -30,14 +30,14 @@ ul.topnav a.active {
   color: rgb(255, 255, 255);
 }
 
-ul.topnav a:hover {
+ul.topnav a:hover:not(.active) {
   background-color: #e00d7a;
   color: rgb(0, 0, 0);
 }
 
 div.content  {
-  padding: 100px 100px;
+  padding: 100px 20px;
   height: 1000px;
-  background-color: #b22b9c;
+  background-color: #ba9eb6;
   color: #000;
 }
