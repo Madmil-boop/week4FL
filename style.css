@@ -3,19 +3,7 @@ h1{
     text-align: center;
 }
 
-body {margin: 50;}
 
-ul.topnav 
-{
-  list-style-type: none;
-  margin: 10;
-  padding: 10;
-  width: 25%;
-  background-color: #f1f1f1;
-  position: fixed;
-  height: 50%;
-  overflow: auto;
-}
 
 ul.topnav li a 
 {
