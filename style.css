@@ -9,10 +9,10 @@ body {margin: 0;}
 ul.topnav {
   margin: 0;
   padding: 0;
-  width: 95%;
-  background-color: #992020;
+  width: 100%;
+  background-color: #d6b2d0;
   position: fixed;
-  height: 10%;
+  height: 5%;
   overflow: auto;
 }
 
