@@ -9,18 +9,18 @@ body {margin: 0;}
 ul.topnav {
   list-style-type: none;
   margin: 0;
-  padding: 0;
-  width: 100%;
+  padding: 10;
+  width: 95%;
   background-color: #f1f1f1;
   position: fixed;
-  height: 10%;
+  height: 0%;
   overflow: auto;
 }
 
 ul.topnav li a {
   display: inline;
   color: #000;
-  padding: 8px 16px;
+  padding: 10px 20px;
   text-decoration: none;
 }
 
