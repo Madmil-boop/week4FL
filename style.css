@@ -2,12 +2,7 @@
 h1{
     text-align: center;
 }
-h2{
-    text-align: center;
-}
-p{
-    text-align: left;
-}
+
 body {margin: 0;}
 
 ul.topnav {
@@ -45,6 +40,4 @@ div.content  {
   height: 1000px;
   background-color: #b22b9c;
   color: #000;
-  margin-top: 50%;
 }
-div.content {margin-left: 0;}
