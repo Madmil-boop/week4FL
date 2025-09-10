@@ -4,3 +4,63 @@ h1{
 }
 
 body {margin: 50;}
+
+
+body {margin: 50;}
+
+ul.topnav 
+{
+  list-style-type: none;
+  margin: 10;
+  padding: 10;
+  width: 25%;
+  background-color: #a52b2b;
+  position: fixed;
+  height: 50%;
+  overflow: auto;
+}
+
+ul.topnav li a 
+{
+  display: block;
+  color: #157398;
+  padding: 20px 8px;
+  text-decoration: none;
+}
+ 
+ul.topnav li a.active 
+{
+  background-color: #4CAF50;
+  color: rgb(38, 25, 179);
+}
+
+ul.topnav li a:hover:not(.active) 
+{
+  background-color: #b348de;
+  color: rgb(69, 5, 5);
+}
+
+
+
+@media screen and (max-width: 900px)
+{
+  ul.topnav {
+    width: 100%;
+    height: auto;
+    position: relative;
+  }
+  
+  ul.topnav li a {
+    float: center;
+    padding: 15px;
+  }
+
+}
+
+@media screen and (max-width: 400px) 
+{
+  ul.topnav li a {
+    text-align: center;
+    float: center;
+  }
+}
