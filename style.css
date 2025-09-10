@@ -18,7 +18,7 @@ ul.topnav {
 
 ul.topnav a {
   float: center;
-  display: block;
+  display: inline;
   color: #000;
   text-align: center;
   padding: 10px 20px;
@@ -31,7 +31,7 @@ ul.topnav a.active {
 }
 
 ul.topnav a:hover {
-  background-color: #840d4c;
+  background-color: #c189a6;
   color: rgb(0, 0, 0);
 }
 
