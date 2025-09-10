@@ -9,11 +9,9 @@ body {margin: 0;}
 ul.topnav {
   margin: 0;
   padding: 0;
-  width: 100%;
   background-color: #d6b2d0;
   position: fixed;
-  height: 7%;
-  overflow: auto;
+  overflow: hidden;
 }
 
 ul.topnav a {
@@ -21,7 +19,7 @@ ul.topnav a {
   display: block;
   color: #000;
   text-align: center;
-  padding: 0px 500px;
+  padding: 14px 16px;
   text-decoration: none;
 }
 
