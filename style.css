@@ -43,6 +43,8 @@ ul.topnav a:hover {
 
 div.content {
   margin-left: 25%;
-  padding: 1px 16px;
+  padding: 100px 16px;
   height: 1000px;
+  background-color: #d6b2d0;
 }
+div.content {margin-left: 0;}
