@@ -2,8 +2,14 @@
 h1{
     text-align: center;
 }
-
-
+h2{
+    text-align: center;
+    float: left;
+}
+p{
+    text-align: left;
+    float: left;
+}
 body {margin: 0;}
 
 ul.topnav {
@@ -12,10 +18,11 @@ ul.topnav {
   background-color: #d6b2d0;
   position: fixed;
   overflow: hidden;
+
 }
 
 ul.topnav a {
-  float: center;
+  float: left;
   display: block;
   color: #000;
   text-align: center;
@@ -29,7 +36,7 @@ ul.topnav a.active {
 }
 
 ul.topnav a:hover {
-  background-color: #c189a6;
+  background-color: #e00d7a;
   color: rgb(0, 0, 0);
 }
 
