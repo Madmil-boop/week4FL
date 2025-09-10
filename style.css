@@ -15,7 +15,7 @@ ul.topnav {
 }
 
 ul.topnav a {
-  float: left;
+  float: center;
   display: block;
   color: #000;
   text-align: center;
