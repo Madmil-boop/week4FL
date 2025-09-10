@@ -36,7 +36,7 @@ ul.topnav a:hover:not(.active) {
 }
 
 div.content  {
-  padding: 100px 20px;
+  margin-top: 20%;
   height: 1000px;
   background-color: #ba9eb6;
   color: #000;
