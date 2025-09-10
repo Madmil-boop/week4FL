@@ -42,11 +42,11 @@ ul.topnav a:hover {
   color: rgb(0, 0, 0);
 }
 
-div.content {
-  margin-left: 25%;
-  padding: 100px 16px;
+div.content  {
+  padding: 100px 100px;
   height: 1000px;
   background-color: #b22b9c;
-  position: fixed;
+  color: #000;
+  margin-top: 20%;
 }
 div.content {margin-left: 0;}
