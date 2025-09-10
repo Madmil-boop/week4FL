@@ -18,11 +18,12 @@ ul.topnav {
   background-color: #d6b2d0;
   position: fixed;
   overflow: hidden;
-  float: inline-start;
+ 
 
 }
 
 ul.topnav a {
+  float: left;
   display: block;
   color: #000;
   text-align: center;
