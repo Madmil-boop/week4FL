@@ -4,34 +4,3 @@ h1{
 }
 
 
-body {margin: 0;}
-
-ul.topnav {
-  margin: 0;
-  padding: 10;
-  width: 95%;
-  background-color: #f1f1f1;
-  position: fixed;
-  height: 0%;
-  overflow: auto;
-}
-
-ul.topnav a {
-  float: left;
-  display: block;
-  color: #000;
-  text-align: center;
-  padding: 10px 20px;
-  text-decoration: none;
-}
-
-ul.sidenav a.active {
-  background-color: #ce2395;
-  color: rgb(255, 255, 255);
-}
-
-ul.sidenav a:hover {
-  background-color: #840d4c;
-  color: rgb(0, 0, 0);
-}
-
