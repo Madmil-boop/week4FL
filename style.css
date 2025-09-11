@@ -9,7 +9,7 @@ ul.topnav {
   margin: 0;
   padding: 0;
   background-color: #d6b2d0;
-  position: fixed;
+
   overflow: hidden;
   width: 100%;
  
@@ -37,7 +37,7 @@ ul.topnav a:hover:not(.active) {
 
 div.content  {
   margin-top: 20%;
-  height: 1000px;
+  height: 800px;
   background-color: #ba9eb6;
   color: #000;
 }
