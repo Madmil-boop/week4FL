@@ -9,7 +9,6 @@ ul.topnav {
   margin: 0;
   padding: 0;
   background-color: #d6b2d0;
-
   overflow: hidden;
   width: 100%;
  
@@ -21,14 +20,10 @@ ul.topnav a {
   display: inline;
   color: #000;
   text-align: center;
-  padding: 14px 16px;
+  padding: 500px 500px;
   text-decoration: none;
 }
 
-ul.topnav a.active {
-  background-color: #ce2395;
-  color: rgb(255, 255, 255);
-}
 
 ul.topnav a:hover:not(.active) {
   background-color: #e00d7a;
@@ -37,7 +32,7 @@ ul.topnav a:hover:not(.active) {
 
 div.content  {
 
-  height: 800px;
+  height: 600px;
   background-color: #ba9eb6;
   color: #000;
 }
